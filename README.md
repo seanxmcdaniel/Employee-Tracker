@@ -9,7 +9,7 @@
   * [License](#license)
   * [Contributing](#contributing)
   * [Test](#Test)
-  * [Questions?](#questions)
+  * [Questions](#questions)
 
   ## Project Description
   
